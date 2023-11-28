@@ -1,1 +1,1 @@
-This is the teste
+This is the test
